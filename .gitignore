@@ -1,3 +1,7 @@
+# to ignore files
+Solution_Methodology.pdf 
+notebooks/fakenews_seq_classification.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
